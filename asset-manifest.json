@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GetAdvice/static/css/main.e854385b.chunk.css",
+    "main.js": "/GetAdvice/static/js/main.052c863d.chunk.js",
+    "main.js.map": "/GetAdvice/static/js/main.052c863d.chunk.js.map",
+    "runtime-main.js": "/GetAdvice/static/js/runtime-main.d0f3622d.js",
+    "runtime-main.js.map": "/GetAdvice/static/js/runtime-main.d0f3622d.js.map",
+    "static/js/2.0e05622a.chunk.js": "/GetAdvice/static/js/2.0e05622a.chunk.js",
+    "static/js/2.0e05622a.chunk.js.map": "/GetAdvice/static/js/2.0e05622a.chunk.js.map",
+    "index.html": "/GetAdvice/index.html",
+    "precache-manifest.3fd63d4cf46942df0e76ffac43e12956.js": "/GetAdvice/precache-manifest.3fd63d4cf46942df0e76ffac43e12956.js",
+    "service-worker.js": "/GetAdvice/service-worker.js",
+    "static/css/main.e854385b.chunk.css.map": "/GetAdvice/static/css/main.e854385b.chunk.css.map",
+    "static/js/2.0e05622a.chunk.js.LICENSE.txt": "/GetAdvice/static/js/2.0e05622a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0f3622d.js",
+    "static/js/2.0e05622a.chunk.js",
+    "static/css/main.e854385b.chunk.css",
+    "static/js/main.052c863d.chunk.js"
+  ]
+}
